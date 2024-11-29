@@ -11,7 +11,7 @@ A simple React-based social media app featuring posts, comments, avatars, and in
 
 ## Screenshot
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](.src/assets/screenshot.png)
 
 ## Installation
 
