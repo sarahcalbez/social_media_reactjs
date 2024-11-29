@@ -17,7 +17,7 @@ A simple React-based social media app featuring posts, comments, avatars, and in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-social-media-app.git
+   git clone https://github.com/sarahcalbez/social_media_reactjs.git
 
 2.	Navigate to the project folder:
 
